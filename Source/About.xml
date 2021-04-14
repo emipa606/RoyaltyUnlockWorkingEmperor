@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Unlock Working Emperor</name>
+  <author>YAYO</author>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>com.yayo.unlockWorkingEmperor</packageId>
+  <loadAfter>
+    <li>Ludeon.RimWorld.Royalty</li>
+  </loadAfter>
+  <incompatibleWith>
+    <li>com.yayo.workingRoyalty</li>
+    <li>com.yayo.unlockEmperor</li>
+  </incompatibleWith>
+  <description>Allow royalty to do all the work without any class restrictions.\nEdit to reach the upper royal ranks that are locked.\nAdded 2 Calling Elite Agents with a higher rank.</description>
+</ModMetaData>
