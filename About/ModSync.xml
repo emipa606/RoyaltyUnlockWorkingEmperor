@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>0a6750a4-6c70-484d-aae8-782499a658ea</ID>
   <ModName>[Royalty] Unlock Working Emperor (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
