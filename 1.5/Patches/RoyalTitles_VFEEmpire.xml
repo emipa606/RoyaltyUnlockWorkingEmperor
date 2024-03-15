@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationReplace" MayRequire="OskarPotocki.VFE.Empire">
+    <xpath>Defs/RoyalTitleDef[@ParentName = "DukeBase" or @ParentName = "BaseEmpireTitle" or @ParentName = "ConsulBase" or @ParentName = "StellarchBase"]/disabledWorkTags</xpath>
+    <value>
+      <disabledWorkTags Inherit="False" />
+    </value>
+  </Operation>
+</Patch>
